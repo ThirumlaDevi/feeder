@@ -445,4 +445,22 @@
   processor: "youtube"
   normalizer: "redakciya"
   refresh_interval: 3600
-  import_limit: 20
+  import_limit: 10
+
+# - name: "safelyendangered"
+#   loader: "twitter"
+#   processor: "twitter"
+#   normalizer: "twitter"
+#   refresh_interval: 3600
+#   import_limit: 10
+#   options:
+#     twitter_user: "endangeredcomic"
+#     only_with_attachments: true
+#     ignore_retweets: true
+
+- name: "safelyendangered"
+  url: "https://www.webtoons.com/en/comedy/safely-endangered/rss?title_no=352"
+  processor: "feedjira"
+  normalizer: "safelyendangered"
+  refresh_interval: 3600
+  import_limit: 10
