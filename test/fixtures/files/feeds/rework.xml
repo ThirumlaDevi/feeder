@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="https://feeds.transistor.fm/stylesheet.xsl" type="text/xsl"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/rework" title="MP3 Audio"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
@@ -10,8 +10,8 @@
     <description>A podcast by Basecamp about the better way to work and run your business. We bring you stories and unconventional wisdom from Basecamp’s co-founders and other business owners.</description>
     <copyright>© All Rights Reserved</copyright>
     <language>en</language>
-    <pubDate>Tue, 03 Dec 2019 07:00:00 -0600</pubDate>
-    <lastBuildDate>Tue, 03 Dec 2019 14:49:01 -0600</lastBuildDate>
+    <pubDate>Thu, 20 Feb 2020 07:00:00 -0600</pubDate>
+    <lastBuildDate>Sat, 22 Feb 2020 18:23:58 -0600</lastBuildDate>
     <link>https://rework.fm</link>
     <image>
       <url>https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg</url>
@@ -40,6 +40,278 @@
     <itunes:complete>No</itunes:complete>
     <itunes:explicit>No</itunes:explicit>
     <itunes:block>No</itunes:block>
+    <item>
+      <title>Extreme Capitalism with Jason Calacanis</title>
+      <itunes:episode>72</itunes:episode>
+      <itunes:title>Extreme Capitalism with Jason Calacanis</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">b8af76cb-4f92-44b1-aa47-ac469a043b64</guid>
+      <link>https://share.transistor.fm/s/353d5b5b</link>
+      <description>Basecamp co-founder and CTO David Heinemeier Hansson sits down with entrepreneur and angel investor Jason Calacanis to debate the gig economy, democratic socialism, and whether the American dream is dead.</description>
+      <content:encoded>
+        <![CDATA[The conversation in this episode is adapted from a longer interview that can be found in full at <a href="https://thisweekinstartups.com/e1029-basecamp-co-founder-author-david-heinemeier-hansson-dhh-debates-jason-on-reining-in-capitalism-benefits-of-state-run-education-healthcare-big-tech-disappointments-work-from-home-parad/">This Week in Startups</a>.]]>
+      </content:encoded>
+      <pubDate>Thu, 20 Feb 2020 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/2822aa5e.mp3" length="71682001" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>3582</itunes:duration>
+      <itunes:summary>Basecamp co-founder and CTO David Heinemeier Hansson sits down with entrepreneur and angel investor Jason Calacanis to debate the gig economy, democratic socialism, and whether the American dream is dead.</itunes:summary>
+      <itunes:subtitle>Basecamp co-founder and CTO David Heinemeier Hansson sits down with entrepreneur and angel investor Jason Calacanis to debate the gig economy, democratic socialism, and whether the American dream is dead.</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <googleplay:explicit>Yes</googleplay:explicit>
+    </item>
+    <item>
+      <title>Poetry at Work</title>
+      <itunes:episode>72</itunes:episode>
+      <itunes:title>Poetry at Work</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">0b8b209f-6885-407e-8d6f-4b54b46cbc67</guid>
+      <link>https://share.transistor.fm/s/fc0ab572</link>
+      <description>Some of our most famous poets had day jobs: Robert Burns was a tax collector; William Carlos Williams was a doctor; Audre Lorde was a librarian and professor. Poetry has a lot to say about work and can serve as a meeting place, a provocative memo, or a break from the daily grind. In this episode, we hear from the creator of Poetry At Work Day and the editor of Poetry magazine about the power of verse in the workplace. And some Basecamp colleagues share poems that are meaningful to them.</description>
+      <content:encoded>
+        <![CDATA[<a href="https://www.daysoftheyear.com/days/2020/02/18/">Days of the Year</a> - 00:08<br><br><a href="https://saltypineapple.ca/blogs/pineapple-express/who-created-the-be-a-pineapple-quote">The origins of "Be A Pineapple"</a> - 00:55<br><br><a href="https://www.tweetspeakpoetry.com/poetry-at-work-day/">Poetry At Work Day 2020</a> - 2:00<br><br><a href="https://www.tweetspeakpoetry.com/take-your-poet-to-work-day/">Take Your Poet to Work Day</a>  - 2:18<br><br>Laura Barkat's <a href="http://llbarkat.com/">website</a> | <a href="http://twitter.com/llbarkat">Twitter</a> - 2:26<br><br><a href="https://quod.lib.umich.edu/a/amverse/BAD0508.0001.001/1:36?rgn=div1;view=fulltext">"The African Chief"</a> by William Cullen Bryant - 2:45<br><br><a href="https://www.tweetspeakpoetry.com/">Tweetspeak Poetry</a> - 3:06<br><br><a href="https://www.thesunmagazine.org/issues/408/selected-poems-jz5mf7">"Wasp"</a> by Tony Hoagland - 4:12<br><br><a href="https://www.poetryfoundation.org/poets/don-share">Don Share</a> | <a href="https://www.poetryfoundation.org/poetrymagazine"><em>Poetry</em> magazine</a> - 5:04<br><br><a href="https://www.poetryfoundation.org/poems/47766/the-instruction-manual">"The Instruction Manual"</a> by John Ashbery - 5:22<br><br><a href="http://famouspoetsandpoems.com/poets/philip_larkin/poems/14525">"Toads"</a> by Philip Larkin - 6:22<br><br><a href="https://rework.fm/you-never-forget-george-pappageorge/">Our recent episode</a> about moving out of Basecamp's current office - 6:57<br><br><a href="https://poets.org/poem/my-first-memory-librarians">"My First Memory (of Librarians)"</a> by Nikki Giovanni - 7:06<br><br><a href="http://utc.iath.virginia.edu/sentimnt/snpohwla1t.html">"Evangeline"</a> by Henry Wadsworth Longfellow - 8:08<br><br>Tweetspeak Poetry's <a href="https://www.tweetspeakpoetry.com/every-day-poems/">Daily Poem email</a> - 11:58<br><br>The Poetry Foundation's <a href="https://www.poetryfoundation.org/podcasts/series/74634/audio-pod">Audio Poem of the Day</a> - 12:05<br><br><a href="https://www.slowdownshow.org/">The Slowdown podcast</a> - 12:11<br><br><a href="https://www.poetryfoundation.org/poems/148574/on-clothes">"On Clothes"</a> by Kahlil Gibran - 13:15<br><br><a href="https://www.poetryfoundation.org/poems/56159/this-is-just-to-say">"This Is Just To Say"</a> by William Carlos Williams - 14:41<br><br><a href="https://www.vox.com/2017/12/1/16723210/this-is-just-to-say-plums-twitter-baby-shoes">"This is just to say we have explained the plum jokes in your Twitter feed"</a> (Vox) - 14:56<br><br><a href="https://en.wikipedia.org/wiki/Lotus-eaters">Lotus-eaters</a> (Wikipedia) - 15:43<br><br><a href="https://www.poetryfoundation.org/poems/45364/the-lotos-eaters">"The Lotos-eaters"</a> by Alfred, Lord Tennyson - 15:59<br><br><a href="https://www.poetryfoundation.org/poems/58264/a-ritual-to-read-to-each-other">"A Ritual to Read to Each Other"</a> by William E. Stafford - 16:31<br><br>Kat Gaskin <a href="https://www.instagram.com/katgaskin/">on Instagram</a> - 22:02<br><br><a href="https://onbeing.org/blog/john-odonohue-for-one-who-is-exhausted-a-blessing/">"A Blessing For One Who Is Exhausted"</a> by John O'Donohue - 22:19]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Feb 2020 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/6c476f46.mp3" length="24414804" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>1524</itunes:duration>
+      <itunes:summary>Some of our most famous poets had day jobs: Robert Burns was a tax collector; William Carlos Williams was a doctor; Audre Lorde was a librarian and professor. Poetry has a lot to say about work and can serve as a meeting place, a provocative memo, or a break from the daily grind. In this episode, we hear from the creator of Poetry At Work Day and the editor of Poetry magazine about the power of verse in the workplace. And some Basecamp colleagues share poems that are meaningful to them.</itunes:summary>
+      <itunes:subtitle>Some of our most famous poets had day jobs: Robert Burns was a tax collector; William Carlos Williams was a doctor; Audre Lorde was a librarian and professor. Poetry has a lot to say about work and can serve as a meeting place, a provocative memo, or a br</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Try Everything</title>
+      <itunes:episode>71</itunes:episode>
+      <itunes:title>Try Everything</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">8939acc6-ef24-4439-94f0-d8104114253c</guid>
+      <link>https://share.transistor.fm/s/36bc5233</link>
+      <description>Every year for the past decade, Mert Iseri has chosen a new skill to learn. This annual challenge has taken him from a magicians' club to chess tournaments where he's competed against eight-year-olds. In this episode, Mert talks about chasing the joy of being challenged just the right amount and what he's learned from being an enthusiastic beginner.</description>
+      <content:encoded>
+        <![CDATA[Mert Iseri <a href="https://twitter.com/mhi">on Twitter</a> - 2:49<br><br>Basecamp's <a href="https://basecamp.com/handbook/08-benefits-and-perks#continuing-education-allowance">Continuing Education Allowance benefit</a> - 3:22<br><br><a href="https://www.swipesense.com/">SwipeSense</a> - 4:45<br><br><a href="https://en.wikipedia.org/wiki/The_Game_of_the_Century_(chess)">The Game of the Century</a> - 8:24<br><br><a href="https://mauriceashley.com/">Chess Grandmaster Maurice Ashley</a> - 9:15<br><br><a href="https://en.wikipedia.org/wiki/Pioneers_Palace">Pioneers Palaces</a> - 10:03<br><br><a href="https://www.masterclass.com/classes/garry-kasparov-teaches-chess">Garry Kasparov's seminar</a> on MasterClass - 10:14<br><br><a href="https://www.indiebound.org/book/9780061339202">Flow by Mihaly Csikszentmihalyi</a> - 14:49<br><br><a href="https://lillstreet.com/">Lillstreet Art Center</a> - 21:44<br><br><a href="https://basecamp.com/books/calm">It Doesn't Have to Be Crazy at Work</a> by Jason Fried and David Heinemeier Hansson - 24:33<br><br><a href="https://www.chicagomagiclounge.com/">Chicago Magic Lounge</a> - 28:59<br><br><a href="https://www.chicagomagiclounge.com/rt-application">Chicago Magic Round Table</a> - 30:00<br><br><a href="https://www.nationalgeographic.com/films/free-solo/">Free Solo</a> - 32:56<br><br><a href="https://www.youtube.com/watch?v=d8ItI3tL0wU">Max Maven performs B'Wave</a> - 38:52]]>
+      </content:encoded>
+      <pubDate>Tue, 11 Feb 2020 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/01d5d270.mp3" length="37964653" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>2371</itunes:duration>
+      <itunes:summary>Every year for the past decade, Mert Iseri has chosen a new skill to learn. This annual challenge has taken him from a magicians' club to chess tournaments where he's competed against eight-year-olds. In this episode, Mert talks about chasing the joy of being challenged just the right amount and what he's learned from being an enthusiastic beginner.</itunes:summary>
+      <itunes:subtitle>Every year for the past decade, Mert Iseri has chosen a new skill to learn. This annual challenge has taken him from a magicians' club to chess tournaments where he's competed against eight-year-olds. In this episode, Mert talks about chasing the joy of b</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>The Road Out Of Startupland</title>
+      <itunes:episode>70</itunes:episode>
+      <itunes:title>The Road Out Of Startupland</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">463ea89c-ff72-487b-9754-3726b0d0c81a</guid>
+      <link>https://share.transistor.fm/s/05d0f49d</link>
+      <description>Sahil Lavingia once believed his startup was headed for unicorn status, but his journey through Silicon Valley—the viral launch on Hacker News, $8 million in venture capital, the glowing press—led to a very different outcome. In this episode, Sahil reflects on life outside the literal and figurative confines of Silicon Valley, and the satisfaction he gets from building a sustainable business.</description>
+      <content:encoded>
+        <![CDATA[<a href="https://www.newyorker.com/magazine/2020/01/27/is-venture-capital-worth-the-risk">"Is Venture Capital Worth the Risk?"</a> (The New Yorker) - 00:51<br><br><a href="https://m.signalvnoise.com/the-deal-jeff-bezos-got-on-basecamp/">"The deal Jeff Bezos got on Basecamp"</a> (Signal v. Noise) - 1:55<br><br>Sahil Lavingia <a href="https://twitter.com/shl">on Twitter</a> | <a href="https://gumroad.com/">Gumroad</a> - 2:05<br><br><a href="https://us.vibram.com/">Vibram shoes</a> - 6:00<br><br><a href="https://twitter.com/jon">Jon Wheatley</a> founded <a href="https://en.wikipedia.org/wiki/DailyBooth">DailyBooth</a>, a YCombinator company - 7:22<br><br><a href="https://techcrunch.com/2011/09/15/sources-pinterest-has-already-pinned-down-10m-at-a-40m-valuation/">"Pinterest Has Already Pinned Down $10M At A $40M Valuation"</a> (TechCrunch) - 7:31<br><br><a href="https://en.wikipedia.org/wiki/Bebo">Bebo</a> is a now-defunct social networking company - 7:54<br><br><a href="https://www.vice.com/en_us/article/bjwkz5/softbanks-vision-fund-is-a-graveyard-of-broken-tech-startups">"SoftBank's Vision Fund Is a Graveyard of Broken Tech Startups"</a> (Vice) - 9:47<br><br><a href="https://techcrunch.com/2012/05/07/gumroad-7-million-series-a-kleiner-perkins/">"Gumroad Gets $7 Million Series A From Kleiner Perkins For Indie E-Payment Platform"</a> (TechCrunch) - 11:43<br><br><a href="https://basecamp.com/personal">Basecamp Personal</a> - 15:45<br><br><a href="https://en.wikipedia.org/wiki/Her_(film)">Her</a> (film) on Wikipedia - 21:01<br><br><a href="https://fourhourworkweek.com/">The 4-Hour Workweek</a> - 29:10<br><br><a href="https://marker.medium.com/reflecting-on-my-failure-to-build-a-billion-dollar-company-b0c31d7db0e7">Sahil's big essay on his experience, "Reflecting on My Failure to Build a Billion-Dollar Company"</a> (Medium) - 32:58<br><br><br>]]>
+      </content:encoded>
+      <pubDate>Tue, 04 Feb 2020 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/f3727158.mp3" length="34443303" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>2150</itunes:duration>
+      <itunes:summary>Sahil Lavingia once believed his startup was headed for unicorn status, but his journey through Silicon Valley—the viral launch on Hacker News, $8 million in venture capital, the glowing press—led to a very different outcome. In this episode, Sahil reflects on life outside the literal and figurative confines of Silicon Valley, and the satisfaction he gets from building a sustainable business.</itunes:summary>
+      <itunes:subtitle>Sahil Lavingia once believed his startup was headed for unicorn status, but his journey through Silicon Valley—the viral launch on Hacker News, $8 million in venture capital, the glowing press—led to a very different outcome. In this episode, Sahil reflec</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Mr. DHH Goes to Washington</title>
+      <itunes:episode>69</itunes:episode>
+      <itunes:title>Mr. DHH Goes to Washington</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">5a49b52a-741b-40bb-85e0-8b6ce09a65c9</guid>
+      <link>https://share.transistor.fm/s/45f3964d</link>
+      <description>Basecamp co-founder and Chief Technology Officer David Heinemeier Hansson has been ranting on Twitter about monopolistic practices in Big Tech for a while, and he recently got an unexpected opportunity to air his grievances about Google, Apple, and Facebook in front of a congressional subcommittee. In this episode, David debriefs on his experience and Basecamp's data analyst, Jane Yang, talks about her work helping David prepare for his appearance.</description>
+      <content:encoded>
+        <![CDATA[<a href="https://judiciary.house.gov/calendar/eventsingle.aspx?EventID=2386">Judiciary Committee page</a> about the hearing, including a video of the event - 1:37<br><br><a href="https://rework.fm/pick-a-fight/">"Pick A Fight,"</a> our episode about why David enjoys arguing on Twitter - 2:38<br><br><a href="https://rework.fm/open-source-beyond-the-market/">"Open Source Beyond the Market,"</a> David's 2019 RailsConf keynote - 4:59<br><br><a href="https://rework.fm/google-ads-shakedown/">"The Google Ads Shakedown,"</a> our episode about our displeasure with the way Google handles ads in search results - 5:51<br><br><a href="https://rework.fm/100-facebook-free/">"100% Facebook-Free,"</a> our episode about pulling Basecamp from Facebook, Instagram, and WhatsApp - 6:42<br><br><a href="https://judiciary.house.gov/calendar/eventslisting.aspx?EventTypeID=215">Previous subcommittee hearings</a> on "Online Platforms and Market Power" - 8:01<br><br><a href="https://m.signalvnoise.com/testimony-before-the-house-antitrust-subcommittee/">David's prepared remarks</a> - 8:35<br><br><a href="https://buck.house.gov/">Congressman Ken Buck</a> - 11:25<br><br>The other witnesses were <a href="https://twitter.com/patrick_spence?lang=en">Patrick Spence</a> of <a href="https://www.sonos.com/en-us/home">Sonos</a>, David Barnett of <a href="https://www.popsockets.com/pages/about-us.html">PopSockets</a>, and Kirsten Daru of <a href="https://www.thetileapp.com/en-us/about-tile">Tile</a> - 12:13<br><br><a href="https://www.cnbc.com/2020/01/17/popsockets-ceo-says-amazon-uses-bullying-with-a-smile-to-press-for-lower-prices.html">"PopSockets CEO says Amazon uses 'bullying with a smile' to press for lower prices"</a> (CNBC) - 13:02<br><br><a href="https://ww.9to5mac.com/2019/11/04/apple-item-tracking-device/#">"Everything we know about Apple's Tile-like item tracking device"</a> (9to5Mac) - 19:22<br><br><a href="https://techcrunch.com/2013/06/10/apples-flashlight-is-why-we-cant-fund-nice-dumb-things/">"Apple's Flashlight Is Why We Can't Fund Nice Dumb Things"</a> (TechCrunch) - 19:40<br><br>The story of Steve Jobs calling Dropbox a "feature" is recounted in this <a href="https://www.forbes.com/sites/victoriabarret/2011/10/18/dropbox-the-inside-story-of-techs-hottest-startup/#744986756437">2011 Fortune article</a> - 20:23<br><br><a href="https://medium.com/@teamwarren/heres-how-we-can-break-up-big-tech-9ad9e0da324c">"Here's how we can break up Big Tech"</a> (Elizabeth Warren) - 26:29<br><br><a href="https://www.thestreet.com/investing/google-pays-apple-billions-to-be-default-search-engine-14865683">Goldman Sachs estimated</a> that Google paid Apple $9.46 billion in 2018 to be the default search engine - 26:50<br><br>The European Union's landmark antitrust case against Microsoft <a href="https://ec.europa.eu/competition/consumers/web_browsers_choice_en.html">required it to offer a choice of browsers</a> to Windows users - 27:08<br><br>NerdWallet's explainer of the <a href="https://www.nerdwallet.com/blog/banking/glass-steagall-act-explained/">Glass-Steagall Act</a> - 27:24<br><br>A New York Times explainer of the <a href="https://www.nytimes.com/2019/02/26/us/politics/overton-window-democrats.html">Overton window</a> - 31:13]]>
+      </content:encoded>
+      <pubDate>Tue, 28 Jan 2020 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/6739ee89.mp3" length="34753049" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>2170</itunes:duration>
+      <itunes:summary>Basecamp co-founder and Chief Technology Officer David Heinemeier Hansson has been ranting on Twitter about monopolistic practices in Big Tech for a while, and he recently got an unexpected opportunity to air his grievances about Google, Apple, and Facebook in front of a congressional subcommittee. In this episode, David debriefs on his experience and Basecamp's data analyst, Jane Yang, talks about her work helping David prepare for his appearance.</itunes:summary>
+      <itunes:subtitle>Basecamp co-founder and Chief Technology Officer David Heinemeier Hansson has been ranting on Twitter about monopolistic practices in Big Tech for a while, and he recently got an unexpected opportunity to air his grievances about Google, Apple, and Facebo</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <googleplay:explicit>Yes</googleplay:explicit>
+    </item>
+    <item>
+      <title>You Never Forget George Pappageorge</title>
+      <itunes:episode>68</itunes:episode>
+      <itunes:title>You Never Forget George Pappageorge</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">0feeeb19-f492-4ddc-b093-4b1c66943582</guid>
+      <link>https://share.transistor.fm/s/5f0a78b2</link>
+      <description>Basecamp CEO Jason Fried is back in the studio with an update on the company's Chicago headquarters. Basecamp will be leaving its office this summer after a 10-year run, and Jason is looking at a number of options—including a space that will bring him full circle with one of his original 37signals partners. </description>
+      <content:encoded>
+        <![CDATA[<a href="https://rework.fm/office-space/">"Office Space,"</a> our last episode about the fate of the Chicago office - 00:45<br><br><a href="https://www.brininstool-lynch.com/">Brininstool+Lynch</a>, the architects behind Basecamp's office - 6:54<br><br><a href="https://segura-inc.com/">Carlos Segura</a>, who co-founded 37signals with Jason and Ernest Kim - 13:13<br><br>Coudal Partners is the Chicago design firm that makes <a href="https://fieldnotesbrand.com/">Field Notes</a> - 20:49<br><br>Chicago artist <a href="https://nateotto.com/home.html">Nate Otto</a> has worked with Basecamp for many years - 21:17<br><br>You never forget <a href="http://pappageorgehaymes.com/">George Pappageorge</a> - 21:33]]>
+      </content:encoded>
+      <pubDate>Tue, 21 Jan 2020 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/a018d7f6.mp3" length="28766635" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>1796</itunes:duration>
+      <itunes:summary>Basecamp CEO Jason Fried is back in the studio with an update on the company's Chicago headquarters. Basecamp will be leaving its office this summer after a 10-year run, and Jason is looking at a number of options—including a space that will bring him full circle with one of his original 37signals partners. </itunes:summary>
+      <itunes:subtitle>Basecamp CEO Jason Fried is back in the studio with an update on the company's Chicago headquarters. Basecamp will be leaving its office this summer after a 10-year run, and Jason is looking at a number of options—including a space that will bring him ful</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Less Business, More d20s</title>
+      <itunes:episode>67</itunes:episode>
+      <itunes:title>Less Business, More d20s</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">34d177aa-3c39-4de8-84f0-5f028027a1c0</guid>
+      <link>https://share.transistor.fm/s/88d144f9</link>
+      <description>Matthew Vincent, a member of Basecamp's Ops team, spoke at Nomad City 2019 about life as a remote worker. Close your eyes and pretend you're in the Canary Islands as you listen to this audio version of Matthew's talk.</description>
+      <content:encoded>
+        <![CDATA[Matthew Vincent's Nomad City <a href="https://www.nomadcity.org/team-member/matthew-vincent/">speaker bio</a> - 00:30<br><br><a href="https://www.nomadcity.org/">Nomad City</a> - 00:34<br><br><a href="https://en.wikipedia.org/wiki/D20_System">d20 System</a> (Wikipedia) - 1:23<br><br><a href="https://www.bloomberg.com/news/features/2015-07-22/thirteen-months-of-working-eating-and-sleeping-at-the-googleplex">"Thirteen Months of Working, Sleeping, and Eating at the Googleplex"</a> (Bloomberg Businessweek, July 2015) - 2:21<br><br><a href="https://www.quora.com/Which-Googler-holds-the-record-for-living-at-Google-HQ-Name-and-or-title-dates-living-working-at-Google-and-backstory-Are-there-any-policies-to-prevent-or-encourage-this">"Which Googler holds the record for living at Google HQ?"</a> (Quora) - 2:23<br><br>Ben Discoe's <a href="https://www.linkedin.com/in/ben-discoe-4a1257/">LinkedIn</a> - 3:06<br><br>Entry in Basecamp's handbook about the <a href="https://basecamp.com/handbook/08-benefits-and-perks#continuing-education-allowance">Continuing Education Allowance</a> - 7:18<br><br><a href="https://twitter.com/destroytoday/status/1165625351894175744?lang=en">The tweet</a> that Matthew references - 9:00<br><br><a href="https://basecamp.com/features/checkins">Automatic Check-ins</a> - 14:00<br><br><a href="https://basecamp.com/handbook">Basecamp's Employee Handbook</a> - 21:36<br><br><a href="https://basecamp.com/shapeup">Shape Up</a> by Ryan Singer, Basecamp's guide to product development - 21:48<br><br>All of <a href="https://basecamp.com/books">Basecamp's books</a> - 22:03<br><br><a href="https://vimeo.com/ondemand/nomadcityconference2019">Videos for Nomad City 2019 talks</a> - 28:45]]>
+      </content:encoded>
+      <pubDate>Tue, 14 Jan 2020 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/070437b4.mp3" length="28228766" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>1762</itunes:duration>
+      <itunes:summary>Matthew Vincent, a member of Basecamp's Ops team, spoke at Nomad City 2019 about life as a remote worker. Close your eyes and pretend you're in the Canary Islands as you listen to this audio version of Matthew's talk.</itunes:summary>
+      <itunes:subtitle>Matthew Vincent, a member of Basecamp's Ops team, spoke at Nomad City 2019 about life as a remote worker. Close your eyes and pretend you're in the Canary Islands as you listen to this audio version of Matthew's talk.</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Welcome Aboard</title>
+      <itunes:episode>66</itunes:episode>
+      <itunes:title>Welcome Aboard</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">1b9fc65f-8ff1-4d6d-a5bd-c1be97ca9bd6</guid>
+      <link>https://share.transistor.fm/s/2c5d81ac</link>
+      <description>Welcome back! We're kicking off the new year with an episode full of practical advice about onboarding new employees. Ashley Bowe from Basecamp's customer support team talks about how they welcome and train new colleagues, and leadership coach Karen Catlin of Better Allies shares advice and examples of what companies can do to build more inclusive cultures.</description>
+      <content:encoded>
+        <![CDATA[<a href="https://basecamp.com/support">Basecamp's Support team</a> - 00:47<br><br><a href="https://betterallies.com/buy/">The Better Allies Approach to Hiring</a> by Karen Catlin - 1:03<br><br><a href="https://rework.fm/hire-when-it-hurts/">"Hire When It Hurts,"</a> our episode about hiring - 2:51<br><br>Entry in Basecamp's handbook about <a href="https://basecamp.com/handbook/08-benefits-and-perks#summer-hours">summer hours </a>- 6:44<br><br><a href="https://m.signalvnoise.com/ive-never-had-a-goal/">"I've never had a goal"</a> (Signal v. Noise) - 7:36<br><br>Shaun talks about not eating lunch for a week in <a href="https://rework.fm/workaholics-arent-heroes/">"Workaholics Aren't Heroes"</a> - 9:03<br><br>Jason Fried and David Heinemeier Hansson write about the <em>joy</em> of missing out in <a href="https://qz.com/work/1412529/fomo-is-not-a-useful-concept-at-work/">this Quartz essay</a> - 14:39<br><br>Karen Catlin <a href="https://twitter.com/kecatlin">on Twitter</a> | her <a href="https://karencatlin.com/">website</a> | Better Allies <a href="https://twitter.com/betterallies">on Twitter</a> | Better Allies <a href="https://betterallies.com/">website</a> - 19:28<br><br>The Uber leather jacket debacle was chronicled by Susan J. Fowler in her <a href="https://www.susanjfowler.com/blog/2017/2/19/reflecting-on-one-very-strange-year-at-uber">now-famous essay</a> about working at Uber - 22:43]]>
+      </content:encoded>
+      <pubDate>Tue, 07 Jan 2020 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/83fb627a.mp3" length="37454295" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>2339</itunes:duration>
+      <itunes:summary>Welcome back! We're kicking off the new year with an episode full of practical advice about onboarding new employees. Ashley Bowe from Basecamp's customer support team talks about how they welcome and train new colleagues, and leadership coach Karen Catlin of Better Allies shares advice and examples of what companies can do to build more inclusive cultures.</itunes:summary>
+      <itunes:subtitle>Welcome back! We're kicking off the new year with an episode full of practical advice about onboarding new employees. Ashley Bowe from Basecamp's customer support team talks about how they welcome and train new colleagues, and leadership coach Karen Catli</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>BONUS - The Knight Before Christmas</title>
+      <itunes:episode>65</itunes:episode>
+      <itunes:title>BONUS - The Knight Before Christmas</itunes:title>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">b174fad7-b133-42a0-b55c-971274b25182</guid>
+      <link>https://share.transistor.fm/s/24290cfb</link>
+      <description>Listeners may remember that last year Wailin watched ALL of the holiday rom-coms and decided to share them with me on our ill-advised holiday bonus episode. Well, we're bringing it back! This year Wailin made Shaun watch The Knight Before Christmas. It's got magic, chivalry, time travel, wide-legged pants, and an inexplicable post-credit scene. Is the holiday bonus episode still ill-advised? Yes. But, is it fun? Also, yes! Happy Holidays to all of our listeners and we'll be back in 2020 with more stories.</description>
+      <pubDate>Tue, 24 Dec 2019 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/ef50d43e.mp3" length="47250243" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>2951</itunes:duration>
+      <itunes:summary>Listeners may remember that last year Wailin watched ALL of the holiday rom-coms and decided to share them with me on our ill-advised holiday bonus episode. Well, we're bringing it back! This year Wailin made Shaun watch The Knight Before Christmas. It's got magic, chivalry, time travel, wide-legged pants, and an inexplicable post-credit scene. Is the holiday bonus episode still ill-advised? Yes. But, is it fun? Also, yes! Happy Holidays to all of our listeners and we'll be back in 2020 with more stories.</itunes:summary>
+      <itunes:subtitle>Listeners may remember that last year Wailin watched ALL of the holiday rom-coms and decided to share them with me on our ill-advised holiday bonus episode. Well, we're bringing it back! This year Wailin made Shaun watch The Knight Before Christmas. It's </itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>Yes</itunes:explicit>
+      <googleplay:explicit>Yes</googleplay:explicit>
+    </item>
+    <item>
+      <title>Are The Kids Alright?</title>
+      <itunes:episode>65</itunes:episode>
+      <itunes:title>Are The Kids Alright?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">e47081ee-88c4-4ece-88be-21ccbfcd05dc</guid>
+      <link>https://share.transistor.fm/s/23bf183d</link>
+      <description>In this anxious era of bullying, teen depression, and school shootings, tech companies are selling software to schools and parents that make big promises about keeping kids secure by monitoring what they say and write online. But these apps demand disturbing trade-offs in the name of safety. In this episode, we dive into the normative, privacy, and transparency implications of this software for both schools and families, and examine how the rush to fix societal problems with technology can amplify harm to young people while enriching companies that stand to profit from increased surveillance.</description>
+      <content:encoded>
+        <![CDATA[Gennie Gebhart's <a href="https://www.eff.org/about/staff/gennie-gebhart">bio</a> | <a href="https://twitter.com/jenuhhveev">Twitter</a> - 00:38<br><br><a href="https://www.eff.org/">Electronic Frontier Foundation</a> - 1:02<br>The EFF's <a href="https://www.eff.org/files/2017/04/13/student-privacy-report.pdf">2017 report on student privacy</a> (PDF) - 1:12<br><a href="https://www.wsj.com/articles/facial-recognition-goes-to-camp-11564479008">"Facial Recognition Tech Comes to Schools and Summer Camps"</a> (Wall Street Journal) - 1:32<br><a href="https://rework.fm/heal-the-internet/">"Heal the Internet,"</a> our episode on removing tracking pixels from emails - 2:06<br><br><a href="https://rework.fm/big-brother-at-the-office/">"Big Brother at the Office,"</a> our episode on workplace surveillance - 2:10<br><br>Previous episodes on Big Tech include <a href="https://rework.fm/100-facebook-free/">"100% Facebook-Free,</a>" <a href="https://rework.fm/google-ads-shakedown/">"The Google Ads Shakedown,"</a> and <a href="https://rework.fm/nevermore-amazon/">"Nevermore, Amazon"</a> - 3:19<br><br><a href="https://rework.fm/breaking-the-black-box/">"Breaking the Black Box,"</a> our episode about algorithmic bias - 3:24<br><br>Caroline Haskins <a href="https://twitter.com/carolineha_">on Twitter</a> | her stories <a href="https://www.vice.com/en_us/contributor/caroline-haskins">for Vice</a> | her stories <a href="https://www.buzzfeednews.com/author/carolinehaskins1">for BuzzFeed News</a> - 3:51<br><br><a href="https://www.buzzfeed.com/tag/Schools%20And%20Surveillance">BuzzFeed News' series</a> on schools and surveillance - 4:04<br><br><a href="https://www.buzzfeednews.com/article/carolinehaskins1/gaggle-school-surveillance-technology-education">"Gaggle Knows Everything About Teens And Kids In School"</a> (BuzzFeed News) - 4:06<br><br><a href="https://www.gaggle.net/">Gaggle</a> - 4:08<br><br><a href="https://www.bark.us/">Bark</a> - 7:05<br><br><a href="https://www.vice.com/en_us/article/8xwze4/schools-are-using-spyware-to-prevent-shootingsbut-theres-no-evidence-it-works">This Vice article</a> takes a closer look at Bark's self-reported safety statistics in North and South Carolina - 7:29<br><br><a href="https://managedmethods.com/">ManagedMethods</a> - 8:31<br><br><a href="https://help.bark.us/en/articles/2670927-faqs-parent-portal">Bark's FAQs</a> about its Parent Portal - 8:57<br><br><a href="https://www.juneauempire.com/opinion/opinion-barking-up-the-right-tree-for-school-safety/">Ryan Stanley's op-ed</a> for the Juneau Empire - 10:14<br><br><a href="https://www.juneauempire.com/news/school-computer-monitoring-program-makes-botched-debut/">"School computer monitoring program makes botched debut"</a> (Juneau Empire) - 11:10<br><br><a href="http://www.kinyradio.com/news/news-of-the-north/schools-make-adjustments-to-bark/">"Schools make adjustments to Bark"</a> (KINY in Juneau) - 11:15<br><br>More anecdotes about false positives can be found in <a href="https://www.theguardian.com/world/2019/oct/22/school-student-surveillance-bark-gaggle">this Guardian piece</a> about school surveillance - 12:25<br><br><a href="https://www.rollingstone.com/politics/politics-news/cruel-and-unusual-punishment-the-shame-of-three-strikes-laws-92042/">"Cruel and Unusual Punishment: The Shame of Three Strikes Laws"</a> (Rolling Stone) - 13:22<br><br><a href="https://illusionofvolition.com/">Sarah Roberts</a>, an assistant professor at UCLA - 13:50<br><br>Marika Pfefferkorn's <a href="https://www.linkedin.com/in/marika-a-pfefferkorn-6a45bb11/">LinkedIn profile</a> - 14:21<br><br><a href="https://www.theatlantic.com/education/archive/2016/09/when-school-feels-like-prison/499556/">"When School Feels Like Prison"</a> (The Atlantic) - 14:38<br><br><a href="https://www.twincities.com/2019/01/28/st-paul-ramsey-county-to-end-youth-data-sharing-agreement-after-withering-criticism/">"St. Paul, Ramsey County to end youth data-sharing agreement after withering criticism"</a> (Pioneer Press) - 14:44<br><br>The Minnesota Department of Human Rights' <a href="https://mn.gov/mdhr/news-community/partnerships/suspension-and-expulsion/faq.jsp">FAQ about discriminatory suspensions in public schools</a> - 15:10<br><br><a href="https://www.vox.com/identities/2018/4/5/17199810/school-discipline-race-racism-gao">"Black kids are way more likely to be punished in school than white kids, study finds"</a> (Vox) - 15:20<br><br><a href="https://www.brennancenter.org/our-work/research-reports/school-surveillance-zone">The Brennan Center for Justice's report</a> on school spending on social media monitoring - 15:45<br><br><a href="https://www.washingtonpost.com/local/education/do-metal-detectors-and-x-ray-machines-belong-in-schools/2018/08/14/b4c31674-9f2d-11e8-8e87-c869fe70a721_story.html">"Do metal detectors and X-ray machines belong in schools?"</a> (Washington Post) - 16:42<br><br><a href="https://www.nytimes.com/2018/03/04/us/school-resource-officers-shooting.html">"School Officer: A Job With Many Roles and One Big Responsibility"</a> (New York Times)  - 16:46<br><br><a href="https://www.washingtonpost.com/technology/2019/10/29/school-apps-track-students-classroom-bathroom-parents-are-struggling-keep-up/?arc404=true">"School apps track students from classroom to bathroom, and parents are struggling to keep up"</a> (Washington Post) - 16:52<br><br><a href="https://www.vox.com/recode/2019/8/15/20806384/social-media-hate-speech-bias-black-african-american-facebook-twitter">"The algorithms that detect hate speech online are biased against black people"</a> (Vox) - 17:15<br><br><a href="https://www.nytimes.com/2018/05/30/us/politics/immigrant-students-deportation.html">"For Immigrant Students, a New Worry: A Call to ICE"</a> (New York Times) - 17:34<br><br><a href="https://endtab.org/">EndTAB</a> - 22:39<br><br><a href="https://www.cnet.com/news/cameras-surveillance-and-the-sinister-tech-behind-domestic-abuse/">"Cameras, surveillance, and the sinister tech behind domestic abuse"</a> - 22:54<br><br><a href="https://www.pewresearch.org/internet/2018/09/27/a-majority-of-teens-have-experienced-some-form-of-cyberbullying/">"A Majority of Teens Have Experienced Some Form of Cyberbullying"</a> (Pew Research) - 23:24<br><br>Apple's <a href="https://www.apple.com/family-sharing/">Family Sharing feature</a> | <a href="https://www.apple.com/icloud/find-my/">Find My</a> device - 24:02<br><br><a href="https://www.life360.com/">Life360</a> - 24:14<br><br><a href="https://stopstalkerware.org/">The Coalition Against Stalkerware</a> - 25:16<br><br><a href="https://www.ftc.gov/news-events/press-releases/2019/10/ftc-brings-first-case-against-developers-stalking-apps">"FTC Brings First Case Against Developers of 'Stalking' Apps"</a> (press release) - 25:24<br><br><a href="https://blog.malwarebytes.com/stalkerware/2019/07/parental-monitoring-apps-how-do-they-differ-from-stalkerware/">This report by software company Malwarebytes</a> summarizes how parental monitoring apps work the same, on a technological level, as stalkerware - 26:05<br><br><a href="https://www.minnpost.com/education/2019/11/are-minnetonka-public-schools-secretly-monitoring-students-social-media-posts/">"Are Minnetonka Public Schools secretly monitoring students' social media posts?"</a> (MinnPost) - 29:37<br><br><a href="https://help.bark.us/en/articles/631837-will-my-child-know-that-bark-is-installed">"Will my child know that Bark is installed?"</a> (Bark FAQ) - 30:28<br><br><a href="https://screen.guide/">ScreenGuide</a> - 31:49<br><br><a href="https://www.theguardian.com/news/2018/may/06/cambridge-analytica-how-turn-clicks-into-votes-christopher-wylie">"Cambridge Analytica: how did it turn clicks into votes?"</a> (The Guardian) - 34:15<br><br>In Maryland, a parent got his local school district to conduct a <a href="https://bethesdamagazine.com/bethesda-beat/schools/mcps-student-data-deletion-week-begins-monday/">"data deletion week"</a> - 34:45<br><br><a href="https://haveibeenpwned.com/">Have I Been Pwned</a> - 36:23<br><br><a href="https://www.theguardian.com/technology/2015/jul/23/panopticon-digital-surveillance-jeremy-bentham">"What does the panopticon mean in the age of digital surveillance?"</a> (The Guardian) - 38:21<br><br><a href="http://dignityinschools.org/">Dignity in Schools</a> | <a href="http://dignityinschools.org/take-action/counselors-not-cops/">Counselors Not Cops</a> - 40:14<br><br><a href="https://ssd.eff.org/">Surveillance Self-Defense</a> (EFF) - 40:22<br>]]>
+      </content:encoded>
+      <pubDate>Tue, 17 Dec 2019 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/da3b6379.mp3" length="39773146" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>2484</itunes:duration>
+      <itunes:summary>In this anxious era of bullying, teen depression, and school shootings, tech companies are selling software to schools and parents that make big promises about keeping kids secure by monitoring what they say and write online. But these apps demand disturbing trade-offs in the name of safety. In this episode, we dive into the normative, privacy, and transparency implications of this software for both schools and families, and examine how the rush to fix societal problems with technology can amplify harm to young people while enriching companies that stand to profit from increased surveillance.</itunes:summary>
+      <itunes:subtitle>In this anxious era of bullying, teen depression, and school shootings, tech companies are selling software to schools and parents that make big promises about keeping kids secure by monitoring what they say and write online. But these apps demand disturb</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
+    <item>
+      <title>Lab Week</title>
+      <itunes:episode>64</itunes:episode>
+      <itunes:title>Lab Week</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:block>No</itunes:block>
+      <googleplay:block>No</googleplay:block>
+      <guid isPermaLink="false">e01a9baa-e9bc-4bcf-977f-d954d39cb6f3</guid>
+      <link>https://share.transistor.fm/s/1200d9d4</link>
+      <description>Get out your Bunsen burner! It's time to do some experiments. In this episode, we talk to two businesses that aren't afraid to try new things. First, the three founders of The Mad Optimist, a soap company in Indiana, talk about letting customers choose what they pay for their products. Then Natalie Nagele, the co-founder and CEO of software company Wildbit, talks about an ongoing experiment with four-day work weeks and what she's discovered about productivity, happiness, and deep work.</description>
+      <content:encoded>
+        <![CDATA[The Mad Optimist <a href="https://www.themadoptimist.com/">website</a> | <a href="https://www.facebook.com/TheMadOptimist/">Facebook</a> | <a href="https://www.instagram.com/themadoptimist/">Instagram</a> - 00:45<br><br>You can find The Mad Optimist's live revenue number <a href="https://www.themadoptimist.com/humanifesto">in their Humanifesto</a> under "We practice radical transparency" - 9:43<br><br>Natalie Nagele <a href="https://twitter.com/natalienagele/">on Twitter</a> - 16:51<br><br>Wildbit <a href="https://wildbit.com/">website</a> - 16:53<br><br>Basecamp's entry on <a href="https://github.com/basecamp/handbook/blob/master/benefits-and-perks.md#summer-hours">Summer Hours</a> in the company handbook - 16:57<br><br><a href="https://www.calnewport.com/books/deep-work/">Deep Work</a> by Cal Newport - 18:54<br><br><br>]]>
+      </content:encoded>
+      <pubDate>Tue, 10 Dec 2019 07:00:00 -0600</pubDate>
+      <author>Basecamp</author>
+      <enclosure url="https://media.transistor.fm/bcffa742.mp3" length="38346626" type="audio/mpeg"/>
+      <itunes:author>Basecamp</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/4671/full_1569860119-artwork.jpg"/>
+      <itunes:duration>2394</itunes:duration>
+      <itunes:summary>Get out your Bunsen burner! It's time to do some experiments. In this episode, we talk to two businesses that aren't afraid to try new things. First, the three founders of The Mad Optimist, a soap company in Indiana, talk about letting customers choose what they pay for their products. Then Natalie Nagele, the co-founder and CEO of software company Wildbit, talks about an ongoing experiment with four-day work weeks and what she's discovered about productivity, happiness, and deep work.</itunes:summary>
+      <itunes:subtitle>Get out your Bunsen burner! It's time to do some experiments. In this episode, we talk to two businesses that aren't afraid to try new things. First, the three founders of The Mad Optimist, a soap company in Indiana, talk about letting customers choose wh</itunes:subtitle>
+      <itunes:keywords>entrepreneur, technology, business, design, small business</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <googleplay:explicit>No</googleplay:explicit>
+    </item>
     <item>
       <title>Venture Capital and Control with Dave Teare</title>
       <itunes:episode>63</itunes:episode>

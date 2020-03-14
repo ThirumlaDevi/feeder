@@ -19,7 +19,7 @@ class ReworkTest < Minitest::Test
   end
 
   def setup
-    stub_request(:get, 'https://rss.art19.com/rework')
+    stub_request(:get, 'https://feeds.transistor.fm/rework')
       .to_return(
         body: file_fixture('feeds/rework.xml'),
         headers: { 'Content-Type' => 'text/xml' }
