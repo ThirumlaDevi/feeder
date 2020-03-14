@@ -429,16 +429,17 @@
     only_with_attachments: true
     ignore_retweets: true
 
-- name: "dailycattt"
-  loader: "twitter"
-  processor: "twitter"
-  normalizer: "twitter"
-  refresh_interval: 1100
-  import_limit: 10
-  options:
-    twitter_user: "PoorlyFluff"
-    only_with_attachments: true
-    ignore_retweets: true
+# NOTE: Twitter account was deleted
+# - name: "dailycattt"
+#   loader: "twitter"
+#   processor: "twitter"
+#   normalizer: "twitter"
+#   refresh_interval: 1100
+#   import_limit: 10
+#   options:
+#     twitter_user: "PoorlyFluff"
+#     only_with_attachments: true
+#     ignore_retweets: true
 
 - name: "redakciya"
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC1eFXmJNkjITxPFWTy6RsWg"
