@@ -1,6 +1,5 @@
 class BaseProcessor
   include Callee
-  include Dry::Monads[:result]
 
   param :content
   param :feed
@@ -10,19 +9,12 @@ class BaseProcessor
   DEFAULT_LIMIT = 2
 
   def call
-    log('processing started')
-    Success(actual_entities)
-  rescue StandardError => e
-    log("[#{e.class.name}] #{e.message}", level: :error)
-    Failure(e)
-  end
-
-  protected
-
-  def actual_entities
+    log("processing #{feed.name} with #{self.class.name}")
     return entities.take(limit) if limit.positive?
     entities
   end
+
+  protected
 
   def entities
     raise 'not implemented'
