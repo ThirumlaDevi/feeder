@@ -54,6 +54,7 @@ if [[ ${START_SERVICE} -eq "1" ]]; then
   if [[ -z ${IS_SERVER_UP} ]]; then
     echo "Error in reaching feeder service. Check docker container logs"
   else
+    sleep 20s # wait for the webpack to load js files
     echo "feeder service and postgres db is started"
   fi
 fi
