@@ -1,6 +1,12 @@
 development:
   adapter: postgresql
-  url: <%= Rails.application.credentials.database_url %>
+  encoding: unicode
+  host: db
+  database: myapp_development
+  user: user
+  password: password
+  pool: 5
+  port: 5432
 
 test:
   adapter: postgresql
