@@ -1,5 +1,9 @@
+docker-compose build
+
 # migrate tables to database
-docker-compose run feederapp rake db:migrate
+# need to make sure that migration should happen from inside the container and not triggered from outside rake
+# Something like this inside Dockerfile should do --> RUN bundle exec rake db:migrate
+docker-compose run feederapp bundle exec rake db:migrate
 
 # start feederapp server and postgres db
 docker-compose up -d
