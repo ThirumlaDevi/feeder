@@ -7,8 +7,10 @@ RUN apt-get update -qq && apt-get install -y yarn
 # Setting up the environment
 ARG RACK_ENV
 ARG RAILS_ENV
+ARG DATABASE_URL
 ENV RAILS_ENV=$RAILS_ENV
 ENV RACK_ENV=$RACK_ENV
+ENV DATABASE_URL=$DATABASE_URL
 
 RUN mkdir /feeder_app 
 WORKDIR /feeder_app 

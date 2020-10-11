@@ -12,6 +12,29 @@ Feeder is a content sharing service built for [freefeed.net](https://freefeed.ne
 
 ## Development
 
+Docker setup:
+- Build docker image
+ ```sh
+    $ docker-compose build
+ ```
+- Start feeder service
+ ```sh
+    $ ./docker/start-service.sh -s
+ ```
+ _Note: If you are facing 'Permission denied' error when executing the above command, then re-run the command after granting executable permissions to the 'start-service.sh' file_
+   ```sh
+      $ chmod +x ./docker/start-service.sh
+   ```
+
+- Stop feeder service
+ ```sh
+    $ ./docker/start-service.sh -k
+ ```
+- _Note: Check out start-service shell script 'help' command for more details_
+ ```sh
+     $ ./docker/start-service.sh -h
+ ```
+
 Vagrant setup:
 
     vagrant up

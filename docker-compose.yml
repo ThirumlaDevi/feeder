@@ -7,6 +7,7 @@ services:
       args:
         RACK_ENV: development
         RAILS_ENV: development
+        DATABASE_URL: postgresql://user:password@db:5432/myapp_development?pool=5
     container_name: feederapp-container
     command: bash -c "bundle exec rails s -p 3000 -b '0.0.0.0'"
     ports:
@@ -14,10 +15,6 @@ services:
       - "3035:3035"
     depends_on:
       - db
-    links:
-      - db:db
-    environment:
-      RAILS_ENV: development
     networks:
       - feedernetwork
   db:    
